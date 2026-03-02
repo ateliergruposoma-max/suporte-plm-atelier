@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Chamados PLM",
+  "description": "Aplicação para criação e gerenciamento de chamados técnicos com formulários dinâmicos.",
+  "requestFramePermissions": []
+}
